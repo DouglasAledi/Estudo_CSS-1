@@ -1,0 +1,33 @@
+.titulo
+{
+    font-size: 40px ;
+    margin: 0% ;
+    text-align: center;
+}
+.frase, css
+{
+    margin-top: 25px;
+    font-size: 30px;   
+}
+.frase
+{
+    color: hsl(83, 48%, 41%);
+
+    font-weight: bold; 
+    font-style: italic; 
+    text-align: center;
+}
+.css
+{
+    color: hsl(118, 48%, 41%);
+}
+.link
+{
+    text-align:center;
+    font-size: 25px;
+    font-weight: bold; 
+}
+a:hover, .active, .visit
+{
+    color: blueviolet;
+}

@@ -1,0 +1,17 @@
+.frase
+{
+    font-size: 25px;
+    width: 1080px;
+}
+.titulo
+{
+    font-style: italic;
+}
+.ancora
+{
+    font-size: 20px;
+}
+.link1:hover, .active
+{
+ color:rgb(12, 128, 128);   
+}
